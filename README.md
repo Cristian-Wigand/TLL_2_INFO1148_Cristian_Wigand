@@ -1,3 +1,5 @@
+## Manual de usuario
+
 # Evidencia empírica — Ordenamiento y Mochila 0/1
 
 Este repositorio contiene dos scripts en Python para generar **evidencia empírica**:
