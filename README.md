@@ -23,22 +23,6 @@ python --version
 python3 --version
 ```
 
----
-
-## Estructura sugerida
-
-```
-.
-├─ src/
-│  ├─ sorts.py
-│  └─ knapsack.py
-└─ data/                 # (opcional) lugar donde guardar CSVs
-```
-
-> Puedes cambiar los nombres o rutas; los ejemplos asumen esta estructura.
-
----
-
 ## 1) `sorts.py` — Insertion vs Merge
 
 ### ¿Qué hace?
